@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Your Name</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#blog">Blog</a>
+      <a href="#media">Media & Podcasts</a>
+      <a href="#awards">Awards & Patents</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <h1>Your Name</h1>
+      <img src="your-photo.jpg" alt="Your Name">
+      <p>Your brief bio and introduction.</p>
+      <!-- Social media icons with links -->
+      <a href="https://twitter.com/yourusername" target="_blank">Twitter</a>
+      <a href="https://www.linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
+    </section>
+
+    <section id="blog">
+      <h2>Blog</h2>
+      <!-- List your blog posts or embed Medium posts here -->
+    </section>
+
+    <section id="media">
+      <h2>Media & Podcasts</h2>
+      <!-- List your media appearances and podcasts here -->
+    </section>
+
+    <section id="awards">
+      <h2>Awards & Patents</h2>
+      <!-- List your awards and patents here -->
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <!-- Add a contact form or your contact information here -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Your Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
